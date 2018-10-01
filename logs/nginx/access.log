@@ -254,3 +254,5 @@
 172.18.0.1 - - [30/Sep/2018:23:03:48 +0000] "GET / HTTP/1.1" 200 18271 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 172.18.0.1 - - [30/Sep/2018:23:03:51 +0000] "GET / HTTP/1.1" 200 18271 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 172.18.0.1 - - [30/Sep/2018:23:09:28 +0000] "GET / HTTP/1.1" 200 18271 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+172.18.0.1 - - [01/Oct/2018:00:06:22 +0000] "GET / HTTP/1.1" 200 18271 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+172.18.0.1 - - [01/Oct/2018:00:06:22 +0000] "GET /favicon.ico HTTP/1.1" 404 284 "http://wordpress/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"

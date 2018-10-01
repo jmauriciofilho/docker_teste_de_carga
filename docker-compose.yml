@@ -67,5 +67,5 @@ services:
     depends_on: 
       - nginx
     environment:
-      ATTACKED_HOST: http://wordpress:8000
+      ATTACKED_HOST: http://wordpress
       LOCUST_OPTS:  "-c 10 -r 10"  
