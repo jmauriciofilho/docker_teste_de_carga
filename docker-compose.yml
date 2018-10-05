@@ -56,16 +56,4 @@ services:
     depends_on:
       - wordpress1
       - wordpress2
-      - wordpress3  
-  locust:
-    image: grubykarol/locust
-    container_name: locust
-    ports:
-      - "8089:8089"
-    volumes: 
-      - ./locust-scripts:/locust
-    depends_on: 
-      - nginx
-    environment:
-      ATTACKED_HOST: http://wordpress
-      LOCUST_OPTS:  "-c 10 -r 10"  
+      - wordpress3
